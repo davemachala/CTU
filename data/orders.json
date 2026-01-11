@@ -1,0 +1,187 @@
+[
+    {
+        "datum": "1\/6\/2026, 12:41:51 PM",
+        "polozky": [
+            {
+                "id": "201",
+                "nazev": "Cola",
+                "cena": 40
+            },
+            {
+                "id": "1767699652",
+                "nazev": "Makovec",
+                "cena": 100
+            }
+        ],
+        "cena": 140,
+        "stav": "Hotovo",
+        "id": 1767699711,
+        "user_id": 1767698903,
+        "username": "david"
+    },
+    {
+        "datum": "1\/6\/2026, 8:32:50 PM",
+        "polozky": [
+            {
+                "id": "101",
+                "nazev": "Margherita",
+                "cena": 150
+            },
+            {
+                "id": "102",
+                "nazev": "Salami",
+                "cena": 180
+            }
+        ],
+        "cena": 330,
+        "stav": "Hotovo",
+        "id": 1767727970,
+        "user_id": 1767698903,
+        "username": "david"
+    },
+    {
+        "datum": "1\/6\/2026, 8:34:46 PM",
+        "polozky": [
+            {
+                "id": "1767728070",
+                "nazev": "Voda",
+                "cena": 15
+            }
+        ],
+        "cena": 15,
+        "stav": "Hotovo",
+        "id": 1767728086,
+        "user_id": 1767698849,
+        "username": "admin"
+    },
+    {
+        "datum": "1\/6\/2026, 9:11:33 PM",
+        "polozky": [
+            {
+                "id": "102",
+                "nazev": "Salami",
+                "cena": 180
+            },
+            {
+                "id": "102",
+                "nazev": "Salami",
+                "cena": 180
+            },
+            {
+                "id": "1767728070",
+                "nazev": "Voda",
+                "cena": 15
+            }
+        ],
+        "cena": 375,
+        "stav": "Hotovo",
+        "id": 1767730293,
+        "user_id": 1767698903,
+        "username": "david"
+    },
+    {
+        "datum": "1\/6\/2026, 9:16:58 PM",
+        "polozky": [
+            {
+                "id": "101",
+                "nazev": "Margherita",
+                "cena": 10
+            }
+        ],
+        "cena": 10,
+        "stav": "Nov\u00e1",
+        "id": 1767730618,
+        "user_id": 1767698849,
+        "username": "admin"
+    },
+    {
+        "datum": "1\/6\/2026, 9:18:19 PM",
+        "polozky": [
+            {
+                "id": "102",
+                "nazev": "Megadobr\u00e1 pizza",
+                "cena": 10
+            }
+        ],
+        "cena": 10,
+        "stav": "Hotovo",
+        "id": 1767730699,
+        "user_id": 1767698903,
+        "username": "david"
+    },
+    {
+        "id": 1767731102,
+        "user_id": 1767698903,
+        "username": "david",
+        "datum": "06.01.2026 20:25:02",
+        "stav": "Nov\u00e1",
+        "polozky": [
+            {
+                "id": 201,
+                "nazev": "Cola",
+                "cena": 40
+            }
+        ],
+        "cena": 40
+    },
+    {
+        "id": 1767731304,
+        "user_id": 1767698903,
+        "username": "david",
+        "datum": "06.01.2026 20:28:24",
+        "stav": "Nov\u00e1",
+        "polozky": [
+            {
+                "id": 102,
+                "nazev": "Salami",
+                "cena": 180
+            }
+        ],
+        "cena": 180
+    },
+    {
+        "id": 1767734193,
+        "user_id": 1767698903,
+        "username": "david",
+        "datum": "06.01.2026 21:16:33",
+        "stav": "Nov\u00e1",
+        "polozky": [
+            {
+                "id": 101,
+                "nazev": "Margherita",
+                "cena": 150
+            }
+        ],
+        "cena": 150
+    },
+    {
+        "id": 1768124271,
+        "user_id": 1767698903,
+        "username": "dave",
+        "datum": "11.01.2026 09:37:51",
+        "stav": "Hotovo",
+        "polozky": [
+            {
+                "id": 101,
+                "nazev": "Margherita",
+                "cena": 150
+            }
+        ],
+        "cena": 150
+    },
+    {
+        "id": 1768149868,
+        "user_id": 1767698849,
+        "username": "admin",
+        "datum": "11.01.2026 16:44:28",
+        "stav": "Nov\u00e1",
+        "polozky": [
+            {
+                "id": 102,
+                "nazev": "Salami",
+                "cena": 180
+            }
+        ],
+        "cena": 180
+    }
+]

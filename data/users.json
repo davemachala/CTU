@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1767698849,
+        "username": "admin",
+        "password": "$2y$12$G0ALEJvekR7upbaCKqK2neLu\/AV4qjFxqLskaLpcetS.NGkH7BTgW",
+        "role": "admin"
+    },
+    {
+        "id": 1767698903,
+        "username": "dave",
+        "password": "$2y$12$MXj2w64hO9gTI3wSsCQ7buh8PyhPYe3YJf0Wt.gLvNC8BUYX6WLiO",
+        "role": "user"
+    }
+]

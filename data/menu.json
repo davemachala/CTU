@@ -1,0 +1,39 @@
+{
+    "kategorie": [
+        {
+            "id": 1,
+            "nazev": "Pizza",
+            "produkty": [
+                {
+                    "id": 101,
+                    "nazev": "Margherita",
+                    "cena": 150,
+                    "obrazek": "assets\/pizza.jpg"
+                },
+                {
+                    "id": 102,
+                    "nazev": "Salami",
+                    "cena": 180,
+                    "obrazek": "assets\/pizza.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nazev": "N\u00e1poje",
+            "produkty": [
+                {
+                    "id": 201,
+                    "nazev": "Cola",
+                    "cena": 40,
+                    "obrazek": "assets\/cola.jpg"
+                }
+            ]
+        },
+        {
+            "id": 1767728477,
+            "nazev": "Dezerty",
+            "produkty": []
+        }
+    ]
+}
